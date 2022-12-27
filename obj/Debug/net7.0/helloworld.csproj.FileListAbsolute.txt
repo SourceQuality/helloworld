@@ -1,0 +1,15 @@
+/Users/andrewhelpern/Repos/helloworld/bin/Debug/net7.0/helloworld
+/Users/andrewhelpern/Repos/helloworld/bin/Debug/net7.0/helloworld.deps.json
+/Users/andrewhelpern/Repos/helloworld/bin/Debug/net7.0/helloworld.runtimeconfig.json
+/Users/andrewhelpern/Repos/helloworld/bin/Debug/net7.0/helloworld.dll
+/Users/andrewhelpern/Repos/helloworld/bin/Debug/net7.0/helloworld.pdb
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/helloworld.csproj.AssemblyReference.cache
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfoInputs.cache
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfo.cs
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/helloworld.dll
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/refint/helloworld.dll
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/helloworld.pdb
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/helloworld.genruntimeconfig.cache
+/Users/andrewhelpern/Repos/helloworld/obj/Debug/net7.0/ref/helloworld.dll
